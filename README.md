@@ -1,4 +1,4 @@
-# lznet.dev - My Personal Site.
+# [lznet.dev](https://lznet.dev/) - My Personal Site.
 Nothing special, just simple site without JS.
 
 ### Thanks to
